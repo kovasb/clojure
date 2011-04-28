@@ -7,6 +7,8 @@
  * 	 the terms of this license.
  *   You must not remove this notice, or any other, from this software.
 
+XXX
+
 Docs: http://clojure.org
 Feedback: http://groups.google.com/group/clojure
 
